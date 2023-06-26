@@ -4,7 +4,7 @@ This project is about very famous philosophers dining problem. In this project, 
 
 ```bash
 # Clone this project
-git clone https://github.com/kpaxlive/philosophers
+git clone https://github.com/kpaxlive/philosophers-philosophers-dining-problem
 ```
 ```bash
 # Access
